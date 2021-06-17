@@ -1,0 +1,8 @@
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\GameLatThe.csprojResolveAssemblyReference.cache
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\Memory_Game.FrmMain.resources
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\Memory_Game.Properties.Resources.resources
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\Memory_Game.FrmScreen.resources
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\GameLatThe.csproj.GenerateResource.Cache
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\Memory Game.exe
+D:\Lập trình gao diện\www.StudyCoding.net - Memory Game Version 1.0.5\Memory Game\Memory Game\obj\x86\Debug\Memory Game.pdb
